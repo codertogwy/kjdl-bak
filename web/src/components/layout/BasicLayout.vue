@@ -15,8 +15,8 @@
 </template>
 
 <script setup>
-import AsideContainer from "./AsideContainer.vue";
-import HeaderContainer from "./HeaderContainer.vue";
+import AsideContainer from "@/components/layout/AsideContainer.vue";
+import HeaderContainer from "@/components/layout/HeaderContainer.vue";
 </script>
 
 <style scoped>
